@@ -977,6 +977,7 @@
 
 - [Kraken.io - Online Image Optimizer](https://kraken.io/web-interface)
 - [TinyJPG - Compress JPEG images intelligently](https://tinyjpg.com/)
+- [JPEG Compressor](https://jpegcompressor.com/)
 
 > Font Icon 在线生成工具
 
